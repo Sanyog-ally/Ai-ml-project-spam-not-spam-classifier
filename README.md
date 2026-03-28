@@ -38,6 +38,14 @@ Example:
 - "Let's meet tomorrow" → Ham
 
 ---
+Project Structure
+
+Spam-Detection-Project/
+│
+├── README.md
+├── Spam_Detection_Project_Report.pdf
+├── spam_detection.py
+└── dataset.csv
 
 Working Process
 
@@ -94,3 +102,4 @@ Result
 The model is able to classify messages with reasonable accuracy. Since this is a basic implementation with a small dataset, the results are simple but effective for understanding the concept.
 
 ---
+
